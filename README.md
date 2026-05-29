@@ -30,12 +30,12 @@ software-testing/
 
 **Step 1:** Clone the repository
 ```bash
-git clone https://github.com/priyadharshini-qa/software-testing.git
+git clone https://github.com/priyadharshini-qa/Qa-test-artefacts.git
 ```
 
 **Step 2:** Open the project folder
 ```bash
-cd software-testing
+cd Qa-test-artefacts
 ```
 
 **Step 3:** Open any template relevant to your testing phase and customise it for your project.
@@ -57,6 +57,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For queries or collaboration, connect via GitHub: [priyadharshini-qa](https://github.com/priyadharshini-qa)
+For queries or collaboration, connect via GitHub: [priyadharshini](https://www.linkedin.com/in/priyadharshinichinnaiyan/)
 
                🧪 Quality first,always! 🧪
